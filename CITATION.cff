@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software or architecture, please cite it as below."
+title: "A Synergistic Hybrid Architecture with Residual Attention and Mixture-of-Experts for Robust Hour-Ahead Forex Forecasting"
+authors:
+  - family-names: "Abbaszadeh"
+    given-names: "Alireza"
+    affiliation: "Department of Computer Engineering, Mashhad Branch, Islamic Azad University, Mashhad, Iran"
+conference:
+  name: "15th International Conference on Computer and Knowledge Engineering (ICCKE 2025)"
+year: 2025
+url: "https://github.com/alirezaabbaszadeh/iccke25-forex-hybrid"
+license: "MIT"
